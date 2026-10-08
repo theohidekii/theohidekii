@@ -12,7 +12,7 @@
 
 <!-- Contato -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/theo-hideki-787a392031"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[https://www.linkedin.com/in/theo-hideki-787a392031](https://www.linkedin.com/in/theohideki/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:theohideki@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <a href="https://github.com/theohidekii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=theohidekii&style=for-the-badge&color=2563eb&label=VISITAS" alt="Visitas ao perfil" />
