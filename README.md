@@ -134,35 +134,6 @@ const theo = {
 
 ---
 
-## 🧭 Como eu trabalho
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>🧱</h3>
-<b>Do zero ao ar</b><br>
-<sub>Arquitetura, código, banco, deploy e monitoramento, sem trocar de mãos no meio.</sub>
-</td>
-<td align="center" width="25%">
-<h3>🔐</h3>
-<b>Seguro por padrão</b><br>
-<sub>Variáveis de ambiente, validação de entrada e nenhum segredo no repositório.</sub>
-</td>
-<td align="center" width="25%">
-<h3>✅</h3>
-<b>Qualidade automatizada</b><br>
-<sub>Type-check, lint, testes e build rodando em CI a cada push.</sub>
-</td>
-<td align="center" width="25%">
-<h3>📚</h3>
-<b>Documentado</b><br>
-<sub>READMEs com arquitetura, como rodar e limitações conhecidas.</sub>
-</td>
-</tr>
-</table>
-
----
-
 <p align="center">
   <b>Aberto a projetos e oportunidades como desenvolvedor full stack.</b><br>
   <sub>Vamos conversar pelo <a href="https://www.linkedin.com/in/theo-hideki-787a392031">LinkedIn</a> ou por <a href="mailto:theohideki@gmail.com">e-mail</a>.</sub>
