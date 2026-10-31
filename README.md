@@ -1,18 +1,39 @@
-## Theo Hideki
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=Theo%20Hideki&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58" alt="Theo Hideki" width="100%" />
+</p>
 
-Desenvolvedor full stack em Brasília e estudante de Ciência da Computação no CEUB. Construo produtos web de ponta a ponta, da interface ao deploy, com foco em automações e integrações com IA.
+<p align="center">
+  <a href="https://www.linkedin.com/in/theo-hideki-787a392031"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:theohideki@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-**Stack principal:** TypeScript, React, Next.js, Node.js, Python, PostgreSQL, Docker, Nginx, GitHub Actions
+<p align="center">
+  Full stack developer from Brasília, studying Computer Science at CEUB.<br>
+  I build web products end to end, from the interface to the deploy, with a focus on automation and AI integrations.
+</p>
 
-### Projetos
+### 🧰 Tech stack
 
-| Projeto | Descrição | Stack |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python,postgres,supabase,redis,docker,nginx,githubactions&theme=dark&perline=12" alt="Tech stack" />
+</p>
+
+### 🚀 Featured projects
+
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| [ChessMind](https://github.com/theohidekii/chessmind) | Coach de xadrez em tempo real: lê o tabuleiro via Chrome DevTools Protocol, analisa com Stockfish e transforma erros em exercícios. 110 testes e CI. | Python, Playwright, Stockfish |
-| [Coisa](https://github.com/theohidekii/Coisa) | E-commerce mobile-first de materiais de construção, com frete por geolocalização e checkout em etapas. | React, TypeScript, Google Maps API |
-| [AI WhatsApp Agent](https://github.com/theohidekii/AI-WhatsApp-Agent) | Agente de atendimento no WhatsApp que entende texto e áudio, com memória por contato e guia de deploy em VPS. | n8n, Redis, Docker |
-| [OdontoSmart](https://github.com/theohidekii/lp-odontosmart) | Landing page em produção com rastreio de conversão, SEO técnico e deploy em Docker. | React, Tailwind, Vite |
+| ♞ [ChessMind](https://github.com/theohidekii/chessmind) | Real-time chess coach that reads the board through the Chrome DevTools Protocol, analyzes it with Stockfish and turns mistakes into exercises. | `Python` `Playwright` `Stockfish` |
+| 🏗️ [Coisa](https://github.com/theohidekii/Coisa) | Mobile-first e-commerce for construction materials, with geolocation-based shipping and a multi-step checkout. | `React` `TypeScript` `Google Maps API` |
+| 🤖 [AI WhatsApp Agent](https://github.com/theohidekii/AI-WhatsApp-Agent) | WhatsApp support agent that understands text and audio, with per-contact memory and a VPS deploy guide. | `n8n` `Redis` `Docker` |
+| 🦷 [OdontoSmart](https://github.com/theohidekii/lp-odontosmart) | Production landing page with conversion tracking, technical SEO and Docker deploy. | `React` `Tailwind` `Vite` |
 
-### Contato
+### 📊 GitHub stats
 
-[LinkedIn](https://www.linkedin.com/in/theo-hideki-787a392031) · [theohideki@gmail.com](mailto:theohideki@gmail.com)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=theohidekii&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theohidekii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=100&section=footer" alt="" width="100%" />
+</p>
