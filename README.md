@@ -25,7 +25,7 @@
 | ♞ [ChessMind](https://github.com/theohidekii/chessmind) | Real-time chess coach that reads the board through the Chrome DevTools Protocol, analyzes it with Stockfish and turns mistakes into exercises. | `Python` `Playwright` `Stockfish` |
 | 🏗️ [Coisa](https://github.com/theohidekii/Coisa) | Mobile-first e-commerce for construction materials, with geolocation-based shipping and a multi-step checkout. | `React` `TypeScript` `Google Maps API` |
 | 🤖 [AI WhatsApp Agent](https://github.com/theohidekii/AI-WhatsApp-Agent) | WhatsApp support agent that understands text and audio, with per-contact memory and a VPS deploy guide. | `n8n` `Redis` `Docker` |
-| 🦷 [OdontoSmart](https://github.com/theohidekii/lp-odontosmart) | Production landing page with conversion tracking, technical SEO and Docker deploy. | `React` `Tailwind` `Vite` |
+| 🗺️ [Maps Prospecting](https://github.com/theohidekii/google-maps-scraper-interface) | Web interface that turns Google Maps searches into lead lists: who has WhatsApp, a real website or only Instagram, with map view and Excel/Sheets export. | `JavaScript` `Docker` `Nginx` |
 
 ### 📊 GitHub stats
 
